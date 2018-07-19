@@ -4,6 +4,10 @@
   "description": "React Component Library for visualizing large amounts of things.",
   "main": "build/index.js",
   "scripts": {
+    "build": "babel lib -d build",
+    "lint": "eslint lib/**; exit 0",
+    "lint:watch": "esw -w lib/**",
+    "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

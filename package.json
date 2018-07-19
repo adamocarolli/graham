@@ -15,5 +15,22 @@
   "bugs": {
     "url": "https://github.com/adamocarolli/graham/issues"
   },
-  "homepage": "https://github.com/adamocarolli/graham#readme"
+  "homepage": "https://github.com/adamocarolli/graham#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "eslint": "^5.1.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0",
+    "eslint-watch": "^4.0.2",
+    "polished": "^1.9.3",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "styled-components": "^3.3.3"
+  }
 }

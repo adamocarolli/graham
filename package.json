@@ -1,0 +1,19 @@
+{
+  "name": "graham",
+  "version": "0.1.0",
+  "description": "React Component Library for visualizing large amounts of things.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamocarolli/graham.git"
+  },
+  "author": "Adamo Carolli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamocarolli/graham/issues"
+  },
+  "homepage": "https://github.com/adamocarolli/graham#readme"
+}

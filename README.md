@@ -6,6 +6,12 @@ React Component Library for visualizing large amounts of things.
 ## Description
 Graham is a visualization library for displaying the sheer enormity of a thing. The idea is that each component in the library is able to neatly visualize [Graham's Number](https://www.youtube.com/watch?v=XTeJ64KD5cg).
 
+## Installation
+Library is not yet published to npm, however, if it was you could install by running:
+```
+npm install graham
+```
+
 ## Local Development 
 ### Dependencies 
 To install dependencies with npm, run:

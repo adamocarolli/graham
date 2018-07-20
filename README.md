@@ -1,8 +1,10 @@
 # Graham
+React Component Library for visualizing large amounts of things.
+
 <img width="600" src="./demo.gif" alt="demo" />
 
 ## Description
-React Component Library for visualizing large amounts of things.
+Graham is a visualization library for displaying the sheer enormity of a thing. The idea is that each component in the library is able to neatly visualize [Graham's Number](https://www.youtube.com/watch?v=XTeJ64KD5cg).
 
 ## Local Development 
 ### Dependencies 
